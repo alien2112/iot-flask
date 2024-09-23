@@ -22,8 +22,8 @@ This repository contains a Flask-based server that utilizes OpenCV and EasyOCR t
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/plate-detection-server.git
-   cd plate-detection-server
+   git clone https://github.com/alien2112/iot-flask.git
+   cd iot-flask
    ```
 
 2. Install the required dependencies:
